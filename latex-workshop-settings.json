@@ -1,0 +1,23 @@
+"latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.latex.recipes": [
+    
+
+        {
+            "name": "defaultex",
+            "tools": [
+                "defaultex"
+            ]
+        }
+    ],
+    "latex-workshop.latex.tools": [
+        {
+            "name": "defaultex",
+            "command": "pdflatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "%DOC_EXT%"
+            ],
+            "env": {}
+        }
+    ]
