@@ -1,5 +1,6 @@
 {
     ...
+    "latex-workshop.view.pdf.viewer": "tab",
     "latex-workshop.latex.recipes": [
 
         {
@@ -20,6 +21,5 @@
             ],
             "env": {}
         }
-    ],
-    ...
+    ]
 }
